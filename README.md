@@ -1,4 +1,3 @@
-````markdown
 # Calculadora Simples em Python
 
 Uma calculadora básica feita em Python, ideal para quem está começando no mundo da programação.
