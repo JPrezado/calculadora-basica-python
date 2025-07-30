@@ -15,7 +15,7 @@ elif operacao == 2:
 elif operacao == 3:
     resultado = num1 * num2
 elif operacao == 4:
-    if num2 != 0:  ##condicional para evitar divisão por zero
+    if num2 != 0:  #condicional para evitar divisão por zero
      resultado = num1 / num2
     else:
      resultado = "ERRO! Divisão por zero!"
