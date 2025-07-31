@@ -14,8 +14,8 @@ Uma calculadora básica feita na linguagem Python.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/calculadora-simples-python.git
-cd calculadora-simples-python
+git clone https://github.com/seu-usuario/calculadora-basica-python.git
+cd calculadora-basica-python
 ````
 
 2. Execute o código:
